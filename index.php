@@ -1,5 +1,5 @@
 <?php
-
+die('here');
 require __DIR__ . '/vendor/autoload.php';
 
 use Monolog\Logger;
